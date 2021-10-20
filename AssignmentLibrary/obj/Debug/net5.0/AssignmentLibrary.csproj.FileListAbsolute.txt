@@ -1,0 +1,12 @@
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\bin\Debug\net5.0\AssignmentLibrary.deps.json
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\bin\Debug\net5.0\AssignmentLibrary.dll
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\bin\Debug\net5.0\ref\AssignmentLibrary.dll
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\bin\Debug\net5.0\AssignmentLibrary.pdb
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\obj\Debug\net5.0\AssignmentLibrary.csproj.AssemblyReference.cache
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\obj\Debug\net5.0\AssignmentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\obj\Debug\net5.0\AssignmentLibrary.AssemblyInfoInputs.cache
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\obj\Debug\net5.0\AssignmentLibrary.AssemblyInfo.cs
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\obj\Debug\net5.0\AssignmentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\obj\Debug\net5.0\AssignmentLibrary.dll
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\obj\Debug\net5.0\ref\AssignmentLibrary.dll
+C:\Users\kskan\source\repos\Assignments\Assignment4\AssignmentLibrary\obj\Debug\net5.0\AssignmentLibrary.pdb
